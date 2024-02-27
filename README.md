@@ -11,14 +11,16 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan spesialisasi
 
 ## Pendidikan
 
-- Sedang menjalani perkuliahan di Politeknik Negeri Bandung pada jurusan Teknik Komputer dan Informatika
+- SD Negeri Karangsari III
+- MTs Al Rohmah
+- SMA Negeri 1 GARUT
+- Politeknik Negeri Bandun
 
 ## Proyek dan Kontribusi
 
 Saya telah berkontribusi pada berbagai proyek yang melibatkan analisis data kompleks, pengembangan algoritma machine learning, dan implementasi aplikasi computer vision. Beberapa highlight termasuk:
 
 - Pengembangan game aplikasi sederhana memiliki peran di bagian UI/UX 
-
 
 ## Menghubungi Saya
 
