@@ -12,7 +12,7 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan spesialisasi
 ## Pendidikan
 
 - Sedang menjalani perkuliahan di Politeknik Negeri Bandung pada jurusan Teknik Komputer dan Informatika
-- 
+
 ## Proyek dan Kontribusi
 
 Saya telah berkontribusi pada berbagai proyek yang melibatkan analisis data kompleks, pengembangan algoritma machine learning, dan implementasi aplikasi computer vision. Beberapa highlight termasuk:
