@@ -6,8 +6,8 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan spesialisasi
 
 ## Kepakaran
 
-- **Computer Vision**: Pengalaman dalam pengolahan gambar dan video, pengenalan pola, dan aplikasi kecerdasan buatan untuk interpretasi visual data.
-- **Data Science**: Keahlian dalam analisis data, machine learning, dan big data. Berpengalaman dalam menggunakan Python, R, TensorFlow, dan PyTorch untuk membangun model prediktif dan analitik.
+- **Bahasa C dan C++**: Pengalaman dalam membuat program dalam Bahasa C dan C++
+- **Microsoft Office** : Pengalaman dalam penggunaan berbagai aplikasi Microsoft Office
 
 ## Pendidikan
 
@@ -19,7 +19,6 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan spesialisasi
 ## Proyek dan Kontribusi
 
 Saya telah berkontribusi pada berbagai proyek yang melibatkan analisis data kompleks, pengembangan algoritma machine learning, dan implementasi aplikasi computer vision. Beberapa highlight termasuk:
-
 - Pengembangan game aplikasi sederhana memiliki peran di bagian UI/UX 
 
 ## Menghubungi Saya
